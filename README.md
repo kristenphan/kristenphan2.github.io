@@ -1,7 +1,7 @@
-# kristenphan2.github.io
-Template repo for taking over domain kristen.ddns.net
+# Subdomain takeover example
+Template repo for taking over domain https://kristen.ddns.net/
 
-## How to take over kristen.ddns.net
+## How-to
 ### Step 1: Fork this repo into your GitHub account
   - You can name the repo however you like
 
