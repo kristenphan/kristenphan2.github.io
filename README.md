@@ -3,7 +3,7 @@ Template repo for taking over domain https://kristen.ddns.net/
 
 ## How-to
 ### Step 0: Confirm that the domain is available for takeover
-- https://kristen.ddns.net/ shows error "404 - There isn't a GitHub Pages site here.", it means the domain is pointing to a non-existing GitHub Page and can be taken over.
+- If https://kristen.ddns.net/ shows error "404 - There isn't a GitHub Pages site here.", it means the domain is pointing to a non-existing GitHub Page and can be taken over.
 
 ![Alt text](/resources/step0.png)
 
