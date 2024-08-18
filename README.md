@@ -15,11 +15,13 @@ Template repo for taking over domain https://kristen.ddns.net/
 ![Alt text](/resources/step1-2.png)
 
 ### Step 2: Create a GitHub Page for the forked repo
-- Source: deploy from a branch
-- Branch: main
-- Custom domain: kristen.ddns.net > Click "Save"
-- Enforce HTTPS: checked
+- Go to Settings
+- Configure the GitHub Page:
+  - Source: deploy from a branch
+  - Branch: main
+  - Custom domain: kristen.ddns.net > Click "Save"
+  - Enforce HTTPS: checked
 
-![Alt text](/resources/step2-1.png)
+![Alt text](/resources/step2a.png)
 
 ![Alt text](/resources/step2-2.png)
