@@ -3,7 +3,7 @@ Template repo for taking over domain https://kristen.ddns.net/
 
 ## How-to
 ### Step 1: Fork this repo into your GitHub account
-  - You can name the repo however you like
+  - Repository name: You can name the repo however you like
 
 ![Alt text](/resources/step1-1.png)
 
