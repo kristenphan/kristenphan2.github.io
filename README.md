@@ -27,7 +27,7 @@ Template repo for taking over domain https://kristen.ddns.net/
 
 ![Alt text](/resources/step2-2.png)
 
-This is what Kristen's domain should show after you've taken it over. 
+This is what Kristen's domain should show after you've taken it over. </br>
 ![Alt text](/resources/step2c.png)
 
 ### Step 3: Remove your GitHub Page's custom domain
