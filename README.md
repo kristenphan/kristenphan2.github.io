@@ -15,13 +15,24 @@ Template repo for taking over domain https://kristen.ddns.net/
 ![Alt text](/resources/step1-2.png)
 
 ### Step 2: Create a GitHub Page for the forked repo
-- Go to Settings
+- Go to Settings > Pages
 - Configure the GitHub Page:
   - Source: deploy from a branch
   - Branch: main
   - Custom domain: kristen.ddns.net > Click "Save"
   - Enforce HTTPS: checked
+- Go to https://kristen.ddns.net/ to check if you have successfully taken over Kristen's domain. 
 
 ![Alt text](/resources/step2a.png)
 
 ![Alt text](/resources/step2-2.png)
+
+![Alt text](/resources/step2c.png)
+
+### Step 3: Remove your GitHub Page's custom domain
+- Go to Settings > Pages
+- Remove the custom domain of your GitHub Page so that someone else can attempt to take over Kristen's domain.
+
+![Alt text](/resources/step3a.png)
+
+  
